@@ -1,4 +1,10 @@
+## Notes
+1. The R code assumes that household_power_consumption.txt is already downloaded and placed into the R working directory.
+2. As requested, I tried to make plots undistiquishable from the samples (and files provided in the figure folder). By now I see only very minor differences in the sazes of the Legend section and labels. 
+
+
 ## Introduction
+
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
