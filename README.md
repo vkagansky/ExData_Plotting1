@@ -1,6 +1,6 @@
 ## Notes
 1. The R code assumes that household_power_consumption.txt is already downloaded and placed into the R working directory.
-2. As requested, I tried to make plots undistiquishable from the samples (and files provided in the figure folder). By now I see only very minor differences in the sazes of the Legend section and labels. 
+2. As requested, I tried to make plots undistiquishable from the samples (and files provided in the figure folder). By now I see only very minor differences in the sizes of the Legend section and labels. 
 
 
 ## Introduction
